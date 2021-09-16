@@ -1,0 +1,25 @@
+import CarClass as c 
+
+toyota=c.Car('12', 'toyota')
+toyota.accelerate()
+print(toyota.getspeed())
+toyota.accelerate()
+print(toyota.getspeed())
+toyota.accelerate()
+print(toyota.getspeed())
+toyota.accelerate()
+print(toyota.getspeed())
+toyota.accelerate()
+print(toyota.getspeed())
+
+toyota.brake()
+print(toyota.getspeed())
+toyota.brake()
+print(toyota.getspeed())
+toyota.brake()
+print(toyota.getspeed())
+toyota.brake()
+print(toyota.getspeed())
+toyota.brake()
+print(toyota.getspeed())
+
