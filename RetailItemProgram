@@ -1,0 +1,4 @@
+import RetailItemClass as r 
+
+item1 = r.RetailItem('Jacket', '12', '50.95')
+
